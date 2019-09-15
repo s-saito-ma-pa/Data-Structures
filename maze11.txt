@@ -1,0 +1,15 @@
+5
++--+--+--+--+--+
+            |  |
++  +  +--+  +  +
+|  |  |  |     |
++--+  +--+--+--+
+|        |     |
++  +--+--+  +--+
+|              |
++--+--+  +--+  +
+|        |      
++--+--+--+--+--+
+
+I know this doesn’t count as an official maze, 
+but it was pretty close and was made by my program.
